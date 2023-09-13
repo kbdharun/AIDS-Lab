@@ -1,27 +1,27 @@
 ```
-function GENETIC-ALGORITHM(problem, populationSize, generations) returns a solution state
-    population <- INITIALIZE-POPULATION(problem, populationSize)
+function GENETIC-ALGORITHM(populationSize, generations) returns a solution state
+    population <- INITIALIZE-POPULATION(populationSize)
     
     for gen = 1 to generations do
-        fitnessValues <- EVALUATE-POPULATION(population, problem)
+        fitnessValues <- EVALUATE-POPULATION(population)
         selectedParents <- SELECT-PARENTS(population, fitnessValues)
         offspring <- RECOMBINE(selectedParents)
         offspring <- MUTATE(offspring)
         population <- SELECT-NEXT-GENERATION(population, offspring)
     
-    return BEST-INDIVIDUAL(population, problem)
+    return BEST-INDIVIDUAL(population)
 
-function INITIALIZE-POPULATION(problem, populationSize) returns a population of individuals
+function INITIALIZE-POPULATION(populationSize) returns a population of individuals
     population <- []
     repeat populationSize times:
-        individual <- RANDOM-INDIVIDUAL(problem)
+        individual <- RANDOM-INDIVIDUAL()
         population.append(individual)
     return population
 
-function EVALUATE-POPULATION(population, problem) returns a list of fitness values
+function EVALUATE-POPULATION(population) returns a list of fitness values
     fitnessValues <- []
     for individual in population do:
-        fitness <- FITNESS-FUNCTION(individual, problem)
+        fitness <- FITNESS-FUNCTION(individual)
         fitnessValues.append(fitness)
     return fitnessValues
 
@@ -60,12 +60,12 @@ function SELECT-NEXT-GENERATION(population, offspring) returns the next generati
     nextGeneration <- TOP-N(sortedPopulation, populationSize)
     return nextGeneration
 
-function BEST-INDIVIDUAL(population, problem) returns the individual with the highest fitness
+function BEST-INDIVIDUAL(population) returns the individual with the highest fitness
     bestIndividual <- population[0]
-    bestFitness <- FITNESS-FUNCTION(bestIndividual, problem)
+    bestFitness <- FITNESS-FUNCTION(bestIndividual)
     
     for individual in population do:
-        fitness <- FITNESS-FUNCTION(individual, problem)
+        fitness <- FITNESS-FUNCTION(individual)
         if fitness > bestFitness then:
             bestIndividual <- individual
             bestFitness <- fitness
