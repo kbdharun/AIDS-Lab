@@ -7,7 +7,5 @@ function SIMULATED-ANNEALING(problem, schedule) returns a solution state
 		next <- a randomly selected successor of current
 		delta E <- VALUE(current) - VALUE(next)
 		if delta E > 0 then current <- next
-		else current <- next only with probability e^-delta E/T
-
-Write a Python program for the above algorithm.
+		else current <- next only with probability e^-△ E/T
 ```
