@@ -10,4 +10,4 @@
   - [Hill Climbing Search Algorithm](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Hill-Climbing-Search/Hill-climbing-search.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Hill-Climbing-Search/pseudocode.md))
   - [Simulated Annealing Search Algorithm](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Simulated-Annealing/SimulatedAnnealing-Complete.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Simulated-Annealing/pseudocode.md))
   - [Genetic Search Algorithm](https://github.com/kbdharun/AIDS-Lab/blob/main/Local-Search-Algorithms/Genetic-Algorithm/GeneticAlgorithm.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Genetic-Algorithm/pseudocode.md))
-  
+- [Alpha Beta Pruning Search Algorithm](https://github.com/kbdharun/AIDS-Lab/blob/main/Alpha-Beta-Tree-Search/alpha-beta-pruning.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AIDS-Lab/blob/main/Alpha-Beta-Tree-Search/pseudocode.md))
