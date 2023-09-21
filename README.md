@@ -1,5 +1,9 @@
 # AI-DS-lab
 
+<a target="_blank" href="https://colab.research.google.com/github/kbdharun/AIDS-Lab">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Index
 
 - [Searching Algorithms](https://github.com/kbdharun/AI-DS-lab/blob/main/Searching-Algorithms/SearchingAlgorithms.ipynb)
