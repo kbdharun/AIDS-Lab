@@ -1,0 +1,5 @@
+{
+  "name": "AI&DS Lab Dev Container",
+  "image": "ghcr.io/kbdharun/aids-lab-image:latest",
+  "forwardPorts": [8888]
+}
