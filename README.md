@@ -15,3 +15,7 @@
   - [Simulated Annealing Search Algorithm](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Simulated-Annealing/SimulatedAnnealing-Complete.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Simulated-Annealing/pseudocode.md))
   - [Genetic Search Algorithm](https://github.com/kbdharun/AIDS-Lab/blob/main/Local-Search-Algorithms/Genetic-Algorithm/GeneticAlgorithm.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AI-DS-lab/blob/main/Local-Search-Algorithms/Genetic-Algorithm/pseudocode.md))
 - [Alpha Beta Pruning Search Algorithm](https://github.com/kbdharun/AIDS-Lab/blob/main/Alpha-Beta-Tree-Search/alpha-beta-pruning.ipynb) ([_Pseudocode_](https://github.com/kbdharun/AIDS-Lab/blob/main/Alpha-Beta-Tree-Search/pseudocode.md))
+- **Constraint Satisfaction Problems**
+  - [N-Queens Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/N-Queens.ipynb)
+  - [Map Coloring Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/Map-coloring.ipynb)
+  - [House allocation Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/House-allocation.ipynb)
