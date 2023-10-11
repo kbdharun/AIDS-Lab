@@ -8,10 +8,11 @@ RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y python3 python3-pip git
 RUN pip3 install notebook
 
-# Install python packages
-RUN pip3 install matplotlib 
-RUN pip3 install networkx 
-RUN pip3 install scipy
+# Copy the requirements file into the container at /app
+COPY requirements.txt /app/
+
+# Install Python packages from requirements file
+RUN pip3 install -r /app/requirements.txt
 
 # Set the working directory
 WORKDIR /app
