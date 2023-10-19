@@ -6,6 +6,8 @@
 
 ## Index
 
+### Artificial Intelligence Experiments
+
 - [Searching Algorithms](https://github.com/kbdharun/AI-DS-lab/blob/main/Searching-Algorithms/SearchingAlgorithms.ipynb)
 - [A* Algorithm](https://github.com/kbdharun/AI-DS-lab/blob/main/Astar-search/A-star.ipynb)
 - [Greedy Best First Search Algorithm](https://github.com/kbdharun/AI-DS-lab/blob/main/GBFS/Greedy%20Best%20First%20Search.ipynb)
@@ -19,3 +21,9 @@
   - [N-Queens Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/N-Queens.ipynb)
   - [Map Coloring Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/Map-coloring.ipynb)
   - [House allocation Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/House-allocation.ipynb)
+
+## Data Science Experiments
+
+- **Random Sampling and Z test**
+  - [Random Sampling & Basic Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Z-Test/Z-Test.ipynb)
+  - [Z-Test using an existing dataset](https://github.com/kbdharun/AIDS-Lab/blob/main/Z-Test/Z-Test-with-dataset.ipynb)
