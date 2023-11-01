@@ -24,6 +24,14 @@
 
 ## Data Science Experiments
 
-- **Random Sampling and Z test**
-  - [Random Sampling & Basic Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Z-Test/Z-Test.ipynb)
-  - [Z-Test using an existing dataset](https://github.com/kbdharun/AIDS-Lab/blob/main/Z-Test/Z-Test-with-dataset.ipynb)
+- **Random Sampling**
+  - [Z-Test]()
+  - [T-Test]()
+  
+- 
+
+----
+- **Random Sampling (Self)**
+  - [Random Sampling & Basic Z-Test]("https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test.ipynb)
+  - [Z-Test using an existing dataset](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test-with-dataset.ipynb)
+  

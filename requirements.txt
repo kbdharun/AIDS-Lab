@@ -1,6 +1,7 @@
-notebook
 matplotlib
 networkx
-scipy
-pandas
+notebook
 numpy
+pandas
+scipy
+seaborn
