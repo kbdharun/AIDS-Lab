@@ -33,7 +33,10 @@
   - [Logistic Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/)
 
 ----
+
 - **Random Sampling (Self)**
   - [Random Sampling & Basic Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test.ipynb)
   - [Z-Test using an existing dataset](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test-with-dataset.ipynb)
-  
+
+- **Regression**
+  - [Linear Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/Linear-Regression/LinReg-Self.ipynb)
