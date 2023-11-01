@@ -25,13 +25,15 @@
 ## Data Science Experiments
 
 - **Random Sampling**
-  - [Z-Test]()
-  - [T-Test]()
+  - [Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test/sampling.ipynb)
+  - [T-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/T-Test/t_test.ipynb)
   
-- 
+- **Regression**
+  - [Linear Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/Linear-Regression/LinReg.ipynb)
+  - [Logistic Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/)
 
 ----
 - **Random Sampling (Self)**
-  - [Random Sampling & Basic Z-Test]("https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test.ipynb)
+  - [Random Sampling & Basic Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test.ipynb)
   - [Z-Test using an existing dataset](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test-Self/Z-Test-with-dataset.ipynb)
   
