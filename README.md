@@ -22,7 +22,9 @@
   - [Map Coloring Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/Map-coloring.ipynb)
   - [House allocation Problem](https://github.com/kbdharun/AIDS-Lab/blob/main/CSP/House-allocation.ipynb)
 
-## Data Science Experiments
+---
+
+### Data Science Experiments
 
 - **Random Sampling**
   - [Z-Test](https://github.com/kbdharun/AIDS-Lab/blob/main/Random-Sampling/Z-Test/sampling.ipynb)
