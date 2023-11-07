@@ -38,6 +38,7 @@
 
 **Alternative Codes**
 
+- [Path finding using A* Algorithm](https://github.com/kbdharun/AIDS-Lab/blob/main/Assignment/AI-assignment.ipynb)
 - [Alpha Beta Pruning (Complete)](https://github.com/kbdharun/AIDS-Lab/blob/main/Alpha-Beta-Tree-Search/alternative_code/alpha_beta.py)
 
 - **Random Sampling**
