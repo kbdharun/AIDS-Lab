@@ -32,7 +32,8 @@
   
 - **Regression**
   - [Linear Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/Linear-Regression/LinReg.ipynb)
-  - [Logistic Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/)
+  - [Logistic Regression](https://github.com/kbdharun/AIDS-Lab/blob/main/Logistic-Regression/Log-Reg-Self.ipynb)
+- [ANOVA](https://github.com/kbdharun/AIDS-Lab/blob/main/ANOVA/ANOVA.ipynb)
 
 ----
 
